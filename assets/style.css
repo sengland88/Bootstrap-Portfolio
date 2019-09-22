@@ -43,5 +43,7 @@ h3 {
 
 .card-style {
     color: black;
+    display: inline-block;
+    margin: 10px;
 }
 
