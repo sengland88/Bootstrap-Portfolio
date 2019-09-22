@@ -21,13 +21,19 @@ h1 {
     color: white;
 }
 
-#nav {
-     
-}
-
 .col-left {
     background-color: grey;
     color: white;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 18px;
+    color: black; 
+}
+
+h3 {
+    color: black;
 }
 
 .col-right {
