@@ -1,0 +1,49 @@
+body {
+    font-size: 14px;
+    line-height: 18px;
+    background-image: url("images/darkness.png");
+    color: white; 
+}
+
+#imgpad {
+    padding: 5px;
+}
+
+#text_pad {
+    padding: 5px; 
+}
+
+#head_pad {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-top: 10px; 
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 16px
+}
+
+p {
+    padding-left: 10px; 
+    padding-right: 10px; 
+}
+
+ul {
+    margin: 5px; 
+}
+#icons {
+    display: inline-block;
+    background: transparent;
+    padding-right: 5px;
+    padding-left: 5px; 
+    margin: 0; 
+}
+
